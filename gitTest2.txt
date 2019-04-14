@@ -2,3 +2,7 @@
 
 
 //git 更新提交测试 
+
+//git diff 测试 工作树文件更改
+
+//git diff head test

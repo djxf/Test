@@ -20,10 +20,10 @@ Git 分支
 	
 3 network
 	1 远端(Remotes)
-		git remotes add 目的地名字 完整url
-		git remotes set-url 目的地名字 新url
-		git remotes rm 远端名字
-		git remotes -v 
+		git remote add 目的地名字 完整url
+		git remote set-url 目的地名字 新url
+		git remote rm 远端名字
+		git remote -v 
 		
 		远端追踪的分支则是分支间的中间人，这些分支有一些不同的唯一原因是在所有分支名字前面有一个前缀就是用来响应远程
 		控制的，大部分情况加，这个将是 origin/。

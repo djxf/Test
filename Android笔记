@@ -1,0 +1,10 @@
+Android SDK Tools:
+	包含了各种各样的定制工具，如Android模拟器(android Emulator),
+	android调试桥(android Debug Bridge(adb)),
+	层级观察器(Hierarchy Viewer),
+	Dalvik 调试监视器服务(Dalvik Debug Monitor Service(ddms)),
+	是一个为Android平台定制的虚拟机。
+	android Asset Packaging Tool(aapt)
+	Aapt工具可以让你创建包含Android应用程序二进制文件和资源文件的.apk文件。
+	android接口描述语言(Android Interface Description Language(aidl))
+	可以让你生成进程间接口的代码。诸如service可以使用的接口。

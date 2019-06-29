@@ -1,0 +1,5 @@
+1 熟悉机器学习和深度学习
+	如KNN,SVM,boost,CNN.算法的性能评估，参数调优。
+2 深度学习框架
+	如caffe，tensorflow，mxnet。
+3 优秀的英语能力。能熟练阅读英文论文。

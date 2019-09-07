@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+	<style>
+		div{
+			width:500px;
+			height:300px;
+			margin: 0 auto;
+			border:solid 1px black;
+			background-color:#99ccff;
+			background-image:udrl("http://img1.dayoo.com/www/201703/08/df71ecd6-bc8e-4fbf-82a2-55cc834d8414_cut.jpg");
+		}
+		
+		#bt_login{
+			position:relative;
+			left:170px;
+			
+		}
+		
+		h1{
+		 	position:relative;
+			left:80px;
+		}
+		
+		text{
+			position:relative;
+			left:130px;
+		}
+		
+		button{
+			position:relative;
+			left:210px;
+			top:30px;
+		}
+		
+		input{
+			position:relative;
+			left:160px;
+		}
+	</style>
+	
+	
+	
+	
+</head>
+<body>
+	<div style="width='200px' height='200px' border='sloid 1px #fff'">
+		<h1>SF快递保价信息管理系统</h1>
+		<text>账号</text><input></input>
+		<br><br>
+		<text>密码</text><input></input><br>
+		<button id='bt_login'>登录</button><button id='bt_psw'>注册</button>
+	</div>
+</body>
+</html>
